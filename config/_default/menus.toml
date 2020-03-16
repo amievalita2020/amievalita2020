@@ -7,26 +7,37 @@
   name = "Home"
   url = "#about"
   weight = 10
-
+  
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Do you AMI?"
+  url = "do_you_ami/"
   weight = 20
-
+  
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "How to participate"
+  url = "/how_to_partecipate"
   weight = 30
-
+  
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Important Dates"
+  url = "/important_dates"
   weight = 40
+  
+[[main]]
+  name = "Data"
+  url = "/data"
+  weight = 50
 
 [[main]]
-  name = "Contact"
+  name = "Evaluation and Results"
+  url = "/evaluation_and_results"
+  weight = 60  
+  
+
+[[main]]
+  name = "Organizers and Contacts"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
