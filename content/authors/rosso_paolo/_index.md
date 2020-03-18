@@ -36,7 +36,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.it/citations?hl=it&user=HFKXPH8AAAAJ
 - icon: user
-  icon_pack: ai
+  icon_pack: fas
   link: http://personales.upv.es/prosso/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -53,4 +53,8 @@ user_groups:
 - Organizers
 ---
 
-**Paolo Rosso** is full professor at the Universitat Politecnica de Valencia, Spain where he is also member of the PRHLT research center. His research interests focus mainly on author profiling, irony detection, fake reviews detection, plagiarism detection, and recently hate speech and fake news detection. Since 2009 he has been involved in the organisation of PAN benchmark activities at CLEF and at FIRE evaluation forums, mainly on plagiarism / text reuse detection and author profiling. At SemEval he has been co-organiser of shared tasks on sentiment analysis of figurative language in Twitter (2015), and on multilingual detection of hate speech against immigrants and women in Twitter (2019). He is co-ordinator of the activities of IberLEF evaluation forum. He has been PI of national and international research projects funded by EC and U.S. Army Research Office. At the moment, in collaboration with Carnegie Mellon University, he is involved in a project funded by Qatar National Research Fund on author profiling for cyber-security. He serves as deputy steering committee chair for the CLEF conference and as associate editor for the Information Processing & Management journal. He has been chair of \*SEM-2015, and organisation chair of CERI-2012, CLEF-2013 and EACL-2017. He is the author of 400+ papers, published in journals, book chapters, conference and workshop proceedings.
+**Paolo Rosso** is full professor at the [Universitat Politecnica de Valencia, Spain](http://www.upv.es/index-en.html) where he is also member of the [PRHLT research center](https://www.prhlt.upv.es/wp/). His research interests focus mainly on author profiling, irony detection, fake reviews detection, plagiarism detection, and recently hate speech and fake news detection.
+
+Since 2009 he has been involved in the organisation of PAN benchmark activities at CLEF and at FIRE evaluation forums, mainly on plagiarism / text reuse detection and author profiling. At SemEval he has been co-organiser of shared tasks on sentiment analysis of figurative language in Twitter (2015), and on multilingual detection of hate speech against immigrants and women in Twitter (2019). 
+
+He is co-ordinator of the activities of IberLEF evaluation forum. He has been PI of national and international research projects funded by EC and U.S. Army Research Office. At the moment, in collaboration with Carnegie Mellon University, he is involved in a project funded by Qatar National Research Fund on author profiling for cyber-security. He serves as deputy steering committee chair for the CLEF conference and as associate editor for the Information Processing & Management journal. He has been chair of \*SEM-2015, and organisation chair of CERI-2012, CLEF-2013 and EACL-2017. He is the author of 400+ papers, published in journals, book chapters, conference and workshop proceedings.

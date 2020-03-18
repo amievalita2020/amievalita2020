@@ -37,6 +37,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/dnozza
+- icon: user
+  icon_pack: fas
+  link: http://dnozza.github.io
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,5 +56,5 @@ user_groups:
 ---
 
 **Debora Nozza** is a Postdoctoral Research Fellow at [Bocconi University](https:\\www.bocconi.it/). Her research interests mainly focus on Natural Language Processing, specifically on the detection and counter-acting of hate speech and algorithmic bias on Social Media data in multilingual context.
-She was Area Chair at the 14th Women in [Machine Learning Workshop (WiML)](https://wimlworkshop.org/2019/) at NeurIPS 2019 and active member of the Milan Women in Machine Learning and Data Science community.
-She was one of the organizers of the task on Automatic Misogyny Identification (AMI) at [Evalita 2018](\url{http://www.evalita.it/2018}), and one of the organizers of the HatEval Task 5 at [SemEval 2019]((\url{http://alt.qcri.org/semeval2019/}) on multilingual detection of hate speech against immigrants and women in Twitter.
+She was Area Chair at the 14th Women in [Machine Learning Workshop (WiML)](https://wimlworkshop.org/2019/) at NeurIPS 2019 and active member of the [Milan Women in Machine Learning and Data Science community](https://www.meetup.com/it-IT/Milan-Women-in-Machine-Learning-and-Data-Science/).
+She was one of the organizers of the task on Automatic Misogyny Identification (AMI) at [Evalita 2018](\url{http://www.evalita.it/2018}), and one of the organizers of the HatEval Task 5 at [SemEval 2019](http://alt.qcri.org/semeval2019/) on multilingual detection of hate speech against immigrants and women in Twitter.

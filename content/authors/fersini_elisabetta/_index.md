@@ -39,7 +39,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.it/citations?user=7_HTCfYAAAAJ&hl=it&oi=ao
 - icon: user
-  icon_pack: ai
+  icon_pack: fas
   link: http://www.mind.disco.unimib.it/gallery/index.asp?cat=282&level=2&lang=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
