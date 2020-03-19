@@ -48,6 +48,6 @@ subtitle = ""
 +++
 
 
-If you have any specific question about the AMI shared task, we may ask you to let us know through the Google Group [amievalita2020]().
+If you have any specific question about the AMI shared task, we may ask you to let us know through the Google Group [amievalita2020](https://groups.google.com/d/forum/amievalita2020).
 
 For any other question that do not directly concern the shared task, please fill the contact form.

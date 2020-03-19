@@ -12,7 +12,7 @@ The data that will be provided to the participants for the shared task comprises
     - Misogyny: Misogyny (1) vs Not Misogyny (0)
     - Aggressiveness: Aggressive (1) vs Not Aggressive (0)
 	
-
+<br>
 
 	
 - The **synthetic dataset**, for measuring the presence of unintended bias, contains template-generated text labelled according to:
