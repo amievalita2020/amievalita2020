@@ -11,4 +11,4 @@ If you want to participate to the AMI@Evalita-2020 shared task, please fill [**t
 
 Participants will be required to submit their runs and to provide a technical report that should include a brief description of their approach, focusing on the adopted algorithms, models and resources, a summary of their experiments, and an analysis of the obtained results.
 
-⚠️ ⚠️ For further details on submissions' format, please refer to AMI-Guidelines.
+⚠️ ⚠️ For further details on submissions' format, please refer to {{% staticref "docs/AMI 2020 - Guidelines.pdf" %}}AMI-Guidelines{{% /staticref %}}.
