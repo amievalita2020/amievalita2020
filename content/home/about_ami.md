@@ -16,4 +16,5 @@ Welcome to the web page of AMI, the second shared task on **Automatic Misogyny I
 
 Given the huge amount of user-generated contents on the Web, and in particular on social media, the problem of detecting, and therefore possibly limit the diffusion of hate speech against women, is rapidly becoming fundamental especially for the societal impact of the phenomenon. The AMI shared task is aimed at **automatically identifying misogynous content in Twitter in Italian language**.
 
-If you would like to know about the details of the shared task, give a look here and subscribe to our Google Group [amievalita2020](https://groups.google.com/d/forum/amievalita2020).
+
+If you would like to participate to the AMI shared task or to obtain the dataset, please fill [**this form**](https://forms.gle/uFF3sAtMMqayiDiz9). You will receive information about how to join our Google Group.
