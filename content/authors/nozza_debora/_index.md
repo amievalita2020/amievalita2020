@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: PostDoc at Bocconi University
+role: Bocconi University
 
 # Organizations/Affiliations
 organizations:
-- name: Bocconi University
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Full Professor at Universitat Politècnica de València
+role: Universitat Politècnica de València
 
 # Organizations/Affiliations
 organizations:
-- name: Universitat Politècnica de València
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
