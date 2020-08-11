@@ -31,7 +31,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:prosso@dsic.upv.es".
+  link: 'mailto:prosso@dsic.upv.es'  # For a direct email link, use "mailto:prosso@dsic.upv.es".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.it/citations?hl=it&user=HFKXPH8AAAAJ

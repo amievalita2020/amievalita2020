@@ -27,7 +27,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:debora.nozza@unibocconi.it".
+  link: 'mailto:debora.nozza@unibocconi.it'  # For a direct email link, use "mailto:debora.nozza@unibocconi.it".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/debora_nozza

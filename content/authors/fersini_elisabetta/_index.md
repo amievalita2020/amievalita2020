@@ -31,7 +31,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:fersini.elisabetta@unimib.it".
+  link: 'mailto:fersini.elisabetta@unimib.it'  # For a direct email link, use "mailto:fersini.elisabetta@unimib.it".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/FersiniE
